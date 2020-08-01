@@ -1,0 +1,137 @@
+.Login {
+    text-align: center;
+  }
+  
+  
+ 
+.Login-header {
+    background-color: #282c34;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(7px + 2vmin);
+    color: white;
+    max-height:200px;
+    max-width: 250px;
+
+  }
+.Login-body {
+    background-color:white;
+    flex-direction: column;
+   border-color: black;
+   border: 2px;
+    justify-content:right;
+    font-size: calc(4px + 2vmin);
+    color:black;
+    max-height:400px;
+    max-width: 250px;
+
+  }
+  
+.Login-link {
+    color: #61dafb;
+  }
+  
+ 
+.background{
+    background-image: url("./images/Background.jpg");
+  }
+
+container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; }
+
+.row {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px; }
+
+.align-items-center {
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important; }
+
+.col-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%; 
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px; }
+
+.col-lg-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%; }
+            
+.mb-4{
+    margin-bottom: 1.5rem !important; }
+      
+.intro-section {
+    position: relative; }
+    
+.intro-section, .intro-section .container > .row {
+    height: 100vh;
+    min-height: 900px; }
+    
+.intro-section.single-cover, .intro-section.single-cover .container > .row {
+    height: 50vh;
+    min-height: 400px; }
+      
+.intro-section p {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.1rem; }
+
+.slide-1 {
+    background-size: cover;
+    background-position: center; }
+
+.slide-1 .slide-text {
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 50px;
+    -webkit-transition: .3s all ease-in-out;
+    -o-transition: .3s all ease-in-out;
+    transition: .3s all ease-in-out; }
+            
+.text-black {
+    color: #000 !important; }
+            
+.h4  {
+    margin-top: 0;
+    margin-bottom: 0.5rem; 
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit; 
+    font-size: 1.5rem; 
+           }
+        
+h3, h4, h5,
+.h1, .h2, .h3, .h4, .h5 {
+    font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+              
+.btn {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 900;
+    padding: 14px 30px; }
+            
+.btn:hover, .btn:active, .btn:focus {
+    outline: none;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important; }
+
+.btn {
+    line-height: 1; }
+                    
+               

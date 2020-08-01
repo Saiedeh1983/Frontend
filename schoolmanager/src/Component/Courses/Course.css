@@ -1,0 +1,47 @@
+.bg-white {
+    background-color: #fff !important; }
+
+.h-100 {
+    height: 100% !important; }
+
+.m-0 {
+    margin: 0 !important; }
+           
+.py-3 {
+    padding-top: 1rem !important; }
+  
+.px-4 {
+    padding-left: 1.5rem !important; }
+                   
+.ml-auto {
+    margin-left: auto !important; }
+                    
+.align-self-stretch {
+    -ms-flex-item-align: stretch !important;
+    align-self: stretch !important; }
+
+.course {
+    -webkit-box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.3);
+     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.3);
+    -webkit-transition: .3s all ease-in-out;
+    -o-transition: .3s all ease-in-out;
+     transition: .3s all ease-in-out;
+     top: 0;
+     position: relative; }
+                                            
+.course h3 {
+    font-size: 1.15rem;
+    color: #000; }
+    .course .stats {
+    font-size: .9rem; }
+              
+.course:hover {
+    top: -10px;
+    -webkit-box-shadow: 0 2px 22px -1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 22px -1px rgba(0, 0, 0, 0.3); }
+
+.icon-chat:before {
+    content: "\e0b7";
+                  }
+            
+            

@@ -1,0 +1,26 @@
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px; }
+
+.row2 {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px; }
+
+.site-section {
+   padding: 5em 0; 
+   position: relative; }
+   
+.courses-entry-wrap {
+    margin-top: -282px; }
+
+    
+  

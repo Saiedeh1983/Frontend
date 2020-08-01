@@ -1,0 +1,23 @@
+.site-section {
+    padding: 2.5em 0; }
+ .courses-title {
+        padding-bottom: 13rem;
+        background: #7971ea; }
+        
+ .courses-title {
+        padding-bottom: 13rem;
+        background: #7971ea; }
+
+ .courses-title .section-title {
+        color: #fff; }
+              
+ .section-title {
+        font-size: 3rem;
+        color: #000;
+        margin-bottom: 1.8rem;
+        font-weight: 900; }
+
+  @media (max-width: 991.98px) {
+            
+  .section-title {
+        font-size: 1.5rem; } }
